@@ -22,15 +22,6 @@
     "tailwindcss-animate": "^1.0.7"
   },
   "devDependencies": {
-    "@lexical/list": "^0.11.0",
-    "@lexical/rich-text": "^0.11.0",
-    "@lexical/table": "^0.11.0",
-    "@lexical/code": "^0.11.0",
-    "@lexical/link": "^0.11.0",
-    "@lexical/markdown": "^0.11.0",
-    "@lexical/react": "^0.11.0",
-    "lexical": "^0.11.0",
-    "react-hot-toast": "^2.4.1",
     "@tailwindcss/typography": "^0.5.10",
     "@types/react-avatar-editor": "^13.0.2",
     "@types/react-copy-to-clipboard": "^5.0.7",
